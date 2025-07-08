@@ -1,1 +1,1 @@
-practice for contribution.
+practice for contribution. OPEN SOURCES
